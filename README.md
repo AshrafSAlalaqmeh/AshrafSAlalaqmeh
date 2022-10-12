@@ -1,8 +1,8 @@
 ### Hello World 🌎 I'm Ashraf 👋 
 
 
-
-JavaScript 
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=red<COLOR>
+Javascript 
 <!--
 **AshrafSAlalaqmeh/AshrafSAlalaqmeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
