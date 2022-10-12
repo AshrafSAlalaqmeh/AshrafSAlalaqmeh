@@ -12,7 +12,12 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
+<hr/>
 
+### Connect with me
+<p>
+<a href='https://www.linkedin.com/in/ashrafalalaqmeh/'> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+</p>
 
 
 <!-- **AshrafSAlalaqmeh/AshrafSAlalaqmeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
