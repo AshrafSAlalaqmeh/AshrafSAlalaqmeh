@@ -1,6 +1,12 @@
 ### Hello World 🌎 I'm Ashraf 👋 
 <hr/>
 
+### About me
+<p>
+<h5> I am a full-stack Engineer from jordan ,I enjoy using my attention to detail, my love for making things that change the world like programming<h5>
+
+</p>
+
 ### 💼 Languages & Tools
 <p>
 <a href ="https://www.w3schools.com"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  </a>
@@ -24,7 +30,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafSAlalaqmeh&layout=compact)](https://github.com/AshrafSAlalaqmeh/github-readme-stats)
+
 
 
 <!-- **AshrafSAlalaqmeh/AshrafSAlalaqmeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
