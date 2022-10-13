@@ -6,7 +6,7 @@
 
   
 
-<h5>I st  I am a full-stack Engineer from jordan, I enjoy using my attention to detail,</br> my love for making things that change the world like programming
+<h5>I Studied Software Engineering and i am a full-stack Engineer from jordan, I enjoy using my attention to detail,</br> my love for making things that change the world like programming
 
 <h5>
 
