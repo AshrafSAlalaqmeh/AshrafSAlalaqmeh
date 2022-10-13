@@ -1,11 +1,18 @@
 ### Hello World 🌎 I'm Ashraf 👋 
 <hr/>
+<img align=right height="250px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ### About me
-<div>
-<h5> I am a full-stack Engineer from jordan,</br> I enjoy using my attention to detail,</br> my love for making things that change the world like programming<h5>
-![Developer](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
-</div>
+
+  
+
+<h5>I st  I am a full-stack Engineer from jordan, I enjoy using my attention to detail,</br> my love for making things that change the world like programming
+
+<h5>
+
+
+</br>
+</br>
 
 ### 💼 Languages & Tools
 <p>
