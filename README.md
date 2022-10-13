@@ -2,10 +2,10 @@
 <hr/>
 
 ### About me
-<p>
-<h5> I am a full-stack Engineer from jordan ,I enjoy using my attention to detail, my love for making things that change the world like programming<h5>
-
-</p>
+<div>
+<h5> I am a full-stack Engineer from jordan,</br> I enjoy using my attention to detail,</br> my love for making things that change the world like programming<h5>
+![Developer](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+</div>
 
 ### 💼 Languages & Tools
 <p>
