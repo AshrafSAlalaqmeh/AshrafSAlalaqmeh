@@ -4,7 +4,6 @@
 
 ### About me
 
-  
 
 <h5>I Studied Software Engineering and i am a full-stack Engineer from jordan, I enjoy using my attention to detail, my love for making things that change the world like programming
 
@@ -15,6 +14,8 @@
 </br>
 
 ### 💼 Languages & Tools
+</br>
+
 <p>
 <a href ="https://www.w3schools.com"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  </a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,6 +31,7 @@
 
 
 ### :email: Connect with me
+</br>
 <p>
 <a href='https://www.linkedin.com/in/ashrafalalaqmeh/'> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   <a href='mailto:ashraf.alalaqmeh@gmail.com'> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
