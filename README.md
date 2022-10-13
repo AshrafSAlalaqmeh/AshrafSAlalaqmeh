@@ -2,7 +2,7 @@
 <hr />
 <img align=right height="250px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-### About me
+### :technologist: About me
 # 
 <h5 >I Studied Software Engineering and i am a Full-Stack Developer  from jordan, I enjoy using my attention to detail, my love for making things that change the world like programming
 
