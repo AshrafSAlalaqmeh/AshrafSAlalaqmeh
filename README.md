@@ -5,12 +5,13 @@
 </p>
 <br>
 
+  
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 <h2>:technologist: About me</h2> 
  
 <p>I Studied Software Engineering and i am a Full-Stack Developer  from jordan, I enjoy using my attention to detail, my love for making things that change the world like programming
 
-<p>
+</p>
 
 
 </br>
