@@ -32,6 +32,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafSAlalaqmeh&layout=compact)](https://github.com/AshrafSAlalaqmeh/github-readme-stats)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafSAlalaqmeh&theme=radical&layout=compact" />
+
 <p>
 
 ### :email: Connect with me 
