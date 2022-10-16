@@ -5,7 +5,7 @@
 
 <h2>:technologist: About me</h2> 
  
-<p >I Studied Software Engineering and i am a Full-Stack Developer  from jordan, I enjoy using my attention to detail, my love for making things that change the world like programming
+<p>I Studied Software Engineering and i am a Full-Stack Developer  from jordan, I enjoy using my attention to detail, my love for making things that change the world like programming
 
 <p>
 
