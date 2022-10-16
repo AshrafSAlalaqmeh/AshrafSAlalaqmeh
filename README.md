@@ -1,19 +1,20 @@
-### Hello World 🌎 I'm Ashraf Alalaqmeh 👋 
+### <p align=center>Hello World 🌎 I'm Ashraf Alalaqmeh 👋 </p>
 <hr />
+<br>
 <img align=right height="250px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-### :technologist: About me
-# 
-<h5 >I Studied Software Engineering and i am a Full-Stack Developer  from jordan, I enjoy using my attention to detail, my love for making things that change the world like programming
+<h2>:technologist: About me</h2> 
+ 
+<p >I Studied Software Engineering and i am a Full-Stack Developer  from jordan, I enjoy using my attention to detail, my love for making things that change the world like programming
 
-<h5>
+<p>
 
 
 </br>
 
-### 💼 Languages & Tools
 
-<h1  margin="0px"></h1>
+
+<h2> 💼 Languages & Tools</h2>
 
 <p>
 <a href ="https://www.w3schools.com"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  </a>
@@ -37,8 +38,8 @@
 -->
 <p>
 
-### :email: Connect with me 
-<h1></h1> 
+ 
+<h2>:email: Connect with me </h2> 
 </p>
 <p>
 <a href='https://www.linkedin.com/in/ashrafalalaqmeh/'> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
